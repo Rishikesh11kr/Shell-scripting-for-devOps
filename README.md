@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://blog.eduonix.com/wp-content/uploads/2015/08/Linux-Shell-Scripting-2.png" alt="Script Image" width="100%" height="50%">
+  <img src="https://blog.eduonix.com/wp-content/uploads/2015/08/Linux-Shell-Scripting-2.png" alt="Script Image" width="100%" height="30%">
 </p>
 
 ## Table of Contents
